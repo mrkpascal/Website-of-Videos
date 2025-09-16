@@ -1,0 +1,5 @@
+{
+  "name": "StreamVerse",
+  "description": "A modern video streaming platform featuring user accounts, an interactive chat room powered by Gemini, and a hiring section. Includes a dedicated admin panel for content management.",
+  "requestFramePermissions": []
+}
